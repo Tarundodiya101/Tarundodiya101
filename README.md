@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Tarundodiya101/Tarundodiya101/blob/main/Black%20Gold%20Rustic%20Artisinal%20Outdoor%20Graduation%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tarun Dodiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
