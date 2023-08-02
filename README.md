@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/dodiya-tarun-738462274](www.linkedin.com/in/dodiya-tarun-738462274)
 
-- 💬 Ask me about **Anguler, Javascript, Typscript**
+- 💬 Ask me about **Anguler, Javascript, Typscript, Html, Css**
 
 - 📫 How to reach me **tarundodiya101@gmail.com**
 
